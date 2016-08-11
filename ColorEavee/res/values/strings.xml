@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColorEavee</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_setting_face">SettingFace</string>
+    <string name="title_activity_shop_face">ShopFace</string>
+    <string name="hp_up">血量升级</string>
+    <string name="dmg_up">伤害升级</string>
+    <string name="time_up">时间升级</string>
+    <string name="tip">点击图标升级</string>
+    <string name="get_money_initial">获得: $0</string>
+    <string name="music">最小为0   最大为15</string>
+
+</resources>
